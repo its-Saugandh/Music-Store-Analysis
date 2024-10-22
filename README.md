@@ -15,20 +15,20 @@ Key insights drawn via SQL:
 
 Key features used in SQL :
 
-DDL commands
-DML commands
-Joins
-Window Function
-Constraints
-CTEs
+1. DDL commands 
+2. DML commands
+3. Joins
+4. Window Function
+5. Constraints
+6. CTEs
 
 
 Key features used in PoweBi:
 
-Powe query
-Custom columns and columns from examples
-Data cleaning and transformation
-Data Modelling
-Measures
-Data visualization (Bar charts, lines charts, tables, line charges, cards, page navigation, slicers)
-PoweBi Web
+1. Power query
+2. Custom columns and columns from examples
+3. Data cleaning and transformation
+4. Data Modelling
+5. Measures
+6. Data visualization (Bar charts, lines charts, tables, line charges, cards, page navigation, slicers)
+7. PoweBi Web
